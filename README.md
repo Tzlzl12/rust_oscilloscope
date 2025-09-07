@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # `stm32-template`
 
 > A template for building applications for STM32 microcontrollers
@@ -64,7 +63,3 @@ Conduct][CoC], the maintainer of this crate, promises
 to intervene to uphold that code of conduct.
 
 [CoC]: https://www.rust-lang.org/policies/code-of-conduct
-||||||| empty tree
-=======
-# rust_oscilloscope
->>>>>>> 69f92377e37380e208305de314d6509f142ef452
